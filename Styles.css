@@ -1,0 +1,13 @@
+.home {
+  background-color: lightgreen;
+}
+h1 {
+  text-align: center;
+}
+img {
+  border: 3px solid black;
+}
+p {
+  padding: 16px;
+}
+.about{background-color: aquamarine;}
